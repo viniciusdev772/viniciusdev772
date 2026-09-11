@@ -5,7 +5,8 @@ que roda sozinho, cobra do cliente e aguenta usuário de verdade.
 
 **No que estou trabalhando**
 
-- **iaresumer** — SaaS próprio de resumos de grupos de WhatsApp. Fastify + MongoDB,
+- **[ResuMestre](https://www.resumestre.com.br/)** — SaaS próprio de resumos de grupos
+  de WhatsApp, no ar e com pagamento funcionando. Fastify + MongoDB,
   filas BullMQ sobre Redis e RabbitMQ, agente com RAG sobre Claude Agent SDK e
   Google GenAI, transcrição de áudio e imagem, cobrança por PIX/Mercado Pago,
   métricas Prometheus. 1.321 commits em 7 meses, 54k linhas de src e 88 arquivos
